@@ -1,0 +1,6 @@
+.env
+.streamlit/secrets.toml
+logs.log
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
